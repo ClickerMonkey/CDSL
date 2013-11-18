@@ -1,10 +1,3 @@
-#
-# Project 3: myscheduler
-# Programmer: Philip Diffenderfer
-# Course: CSC32002
-# Instructor: Dr. Lee
-#
-
 CFLAGS = -g -Wall
 LINK_FLAGS = -lm
 NAME = examples
