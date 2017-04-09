@@ -15,7 +15,6 @@ list.c \
 maxheap.c \
 minheap.c \
 plane.c \
-polygon.c \
 queue.c \
 stack.c \
 transform.c \
@@ -35,7 +34,6 @@ list.o \
 maxheap.o \
 minheap.o \
 plane.o \
-polygon.o \
 queue.o \
 stack.o \
 transform.o \
